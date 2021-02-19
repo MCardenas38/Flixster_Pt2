@@ -13,6 +13,7 @@ Time spent: 2 hours spent in total
 
 ### App Walkthough GIF
 ![](./Walkthrough.gif)
+![](./YT_fullview.gif)
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
